@@ -28,3 +28,6 @@ for i in range(0,players):
     dr2 = dr1+11
 
     printDV(t1,t2,g1,g2,dr1,dr2)
+
+input('PRESS ENTER TWICE TO EXIT')
+input('')
